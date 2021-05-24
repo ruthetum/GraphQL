@@ -12,5 +12,8 @@
 3. [Apollo](./yalco-inflearn-graphql-apollo/1-3-graphql-exp/readme.md#Apollo)
     - Apollo 사용 이유
 
+4. [Apollo 서버 구축](./yalco-inflearn-graphql-apollo/2-1-graphql-api-setup/readme.md)
+    - ApolloServer, typeDef, Resolver
+
 ### Reference
 https://www.yalco.kr/lectures/graphql-apollo/
