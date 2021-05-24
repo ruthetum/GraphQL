@@ -15,5 +15,8 @@
 4. [Apollo 서버 구축](./yalco-inflearn-graphql-apollo/2-1-graphql-api-setup/readme.md)
     - ApolloServer, typeDef, Resolver
 
+5. [Query 구현](./yalco-inflearn-graphql-apollo/2-2-server-query/readme.md)
+    - Query, Type, Resolver
+
 ### Reference
 https://www.yalco.kr/lectures/graphql-apollo/
