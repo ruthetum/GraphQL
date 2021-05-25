@@ -1,4 +1,8 @@
 # Query 구현
+```
+Query : 데이터 조회
+Mutation : 데이터 추가, 수정, 삭제
+```
 
 ## Query 루트 타입
 ```
@@ -34,3 +38,6 @@ const resolvers = {
 ```
 - Query란 object의 항목들로 데이터를 반환하는 함수 선언
 - 실제 프로젝트에서는 MySQL 조회 코드 등..
+
+### Reference
+https://www.yalco.kr/@graphql-apollo/2-2/

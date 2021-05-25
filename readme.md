@@ -18,5 +18,8 @@
 5. [Query 구현](./yalco-inflearn-graphql-apollo/2-2-server-query/readme.md)
     - Query, Type, Resolver
 
+6. [Mutation 구현](./yalco-inflearn-graphql-apollo/2-3-server-mutation/readme.md)
+    - 추가, 수정, 삭제 mutation
+
 ### Reference
 https://www.yalco.kr/lectures/graphql-apollo/
