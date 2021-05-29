@@ -23,5 +23,11 @@
 
 7. [모듈화](./yalco-inflearn-graphql-apollo/3-1-server-modularized/readme.md)
 
+8. [GraphQL 기본 타입](./yalco-inflearn-graphql-apollo/3-2-types/readme.md)
+    - 스칼라 타입
+    - 열거 타입
+    - 리스트 타입
+    - 객체 타입
+
 ### Reference
 https://www.yalco.kr/lectures/graphql-apollo/
