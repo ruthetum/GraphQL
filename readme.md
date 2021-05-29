@@ -21,5 +21,7 @@
 6. [Mutation 구현](./yalco-inflearn-graphql-apollo/2-3-server-mutation/readme.md)
     - 추가, 수정, 삭제 mutation
 
+7. [모듈화](./yalco-inflearn-graphql-apollo/3-1-server-modularized/readme.md)
+
 ### Reference
 https://www.yalco.kr/lectures/graphql-apollo/
